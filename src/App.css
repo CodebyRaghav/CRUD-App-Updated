@@ -1,0 +1,9 @@
+.App {
+  margin: 50px;
+  padding: 50px;
+}
+.error {
+  color: red;
+  font-size: 16px;
+  text-align: left;
+}
